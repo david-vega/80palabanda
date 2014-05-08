@@ -1,0 +1,34 @@
+html, body {
+  margin:0; padding:0;
+  height:100%;
+}
+
+body{
+  background: #903d3d;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#floater {
+  height: 50%;
+  margin-bottom: -250px;
+}
+
+#centered {
+  position:relative;
+  clear:left;
+  width:80%;
+  margin:0 auto;
+}
+
+#content{
+  color: #300;
+  text-align: center;
+}
+
+h1{
+  font-size: 3em;
+}
+
+time{
+  font-size: 9em;
+}
